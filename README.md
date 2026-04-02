@@ -6,7 +6,7 @@ I am an accounting major who is currently a Junior. You might see me at SGA meet
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Education](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=Stack%20Overflow&logoColor=white)
+![Education](https://img.shields.io/badge/Education-F58025?logo=Stack%20Overflow&logoColor=white)
 ![PublicAccounting](https://img.shields.io/badge/Public%20Accounting-EE2624?logo=publons&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
